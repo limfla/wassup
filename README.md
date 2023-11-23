@@ -17,8 +17,4 @@
          <a href=https://www.notion.so/oreumi/5716d91853714410b3a75fe5635101e0?v=bf88d06e5e1f4cf392695b82ab25be36> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/oreumi/5716d91853714410b3a75fe5635101e0?v=bf88d06e5e1f4cf392695b82ab25be36"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-    </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limfla&show_icons=true&theme=vue)
+ ### 하이
