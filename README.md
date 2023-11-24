@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=094805&height=240&text=Welcome%20to%20Hee's%20GitHub%20👋&animation=&fontColor=ffffff&fontSize=50" />
     </div>
+    이스트소프트 KDT AI서비스기획 1기
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👻 Hi, I'm Heelim </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> I have a dream to make a better world through IT product.</li><li> I wish to be the one who is able to lead people to live productive life </div> 
